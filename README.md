@@ -1,12 +1,12 @@
-# Portfolio Website
+# Personal Portfolio Website
 
-A modern portfolio website built with React, TypeScript, and Tailwind CSS.
+My personal web portfolio built with React, TypeScript, and Tailwind CSS.
 
 ## Features
 - Responsive design
 - Modern UI/UX
-- Automated deployment with GitHub Actions
-- React Router for navigation
+- Automated deployment with GitHub Actions and Vite
+- React "#" Router for navigation
 - Tailwind CSS for styling
 
 ## Technologies Used
@@ -14,4 +14,4 @@ A modern portfolio website built with React, TypeScript, and Tailwind CSS.
 - TypeScript
 - Tailwind CSS
 - Vite
-- GitHub Pages 
+- GitHub Pages
